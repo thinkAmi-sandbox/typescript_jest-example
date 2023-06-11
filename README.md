@@ -7,3 +7,4 @@
 
 ## Related Blog (Written in Japanese)
 
+- [TypeScript + Jest で、type文やinterface宣言による型からモックオブジェクトを作ってみた - メモ的な思考的な](https://thinkami.hatenablog.com/entry/2023/06/11/211818)
